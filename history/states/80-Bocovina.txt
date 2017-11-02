@@ -1,0 +1,27 @@
+state={
+	id=80
+	name="STATE_80"
+	manpower = 474600
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = ROM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+		}
+		add_core_of = ROM
+		
+		1958.1.1 = {
+			owner = RKU
+			controller = RKU
+			add_core_of = RKU
+			add_core_of = UKR
+		}
+	}
+	provinces={
+		577 9548
+	}
+}
